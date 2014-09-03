@@ -1,0 +1,15 @@
+{
+   "name": "Changeset Mover",
+   "className": "ChangesetMover",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.0rc3",
+   "javascript": [
+      "App.js",
+      "ChangesetNewAttribsDialog.js",
+      "ChooseDateDialog.js",
+      "ChooseArtifactDialog.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
